@@ -1,6 +1,5 @@
 package com.dane.webflux.domain.post;
 
-
 import com.dane.webflux.domain.user.User;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
